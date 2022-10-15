@@ -4,15 +4,18 @@ Development Console - In Game
 # Description
 DevConsole is in-game console that can be used for debugging, handling runtime errors or executing custom commands.
 
+[Docs](https://github.com/piterrr70/DevConsoleV7G/blob/main/DOCUMENTATION.md)
+
 # Features
-• Easy to set up. Add DevConsoleV7G component and that's it!
-• Easy to add new comands (MonoBehavior based commands)
-• Intuitive command suggestion
-• You can add console logs from other components with one line of code
-• Keeps a history of last used commands
-• Documentation included
-• Full source code included
-• Input history search
+- Easy to set up. Add DevConsoleV7G component and that's it!
+- Easy to add new comands (MonoBehavior based commands)
+- Intuitive command suggestion
+- On Console Show Action Trigger
+- You can add console logs from other components with one line of code
+- Keeps a history of last used commands
+- Documentation included
+- Full source code included
+- Input history search
 
 # Requirements and Dependencies
 - Unity 2021.2 - up
