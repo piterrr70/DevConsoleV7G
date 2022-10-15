@@ -8,9 +8,9 @@ DevConsole is in-game console that can be used for debugging, handling runtime e
 
 # Features
 - Easy to set up. Add DevConsoleV7G component and that's it!
-- Easy to add new comands (MonoBehavior based commands)
+- Easy to add new comands (MonoBehavior based commands) 
+- On Console Show Action Trigger (MonoBehavior based On Console Show Action) 
 - Intuitive command suggestion
-- On Console Show Action Trigger
 - You can add console logs from other components with one line of code
 - Keeps a history of last used commands
 - Documentation included
